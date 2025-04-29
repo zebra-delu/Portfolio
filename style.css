@@ -1,0 +1,12 @@
+.box{
+    background-color: cyan;
+    width: 200px;
+    height: 200px;
+    margin-bottom: 1rem;
+}
+.box.circle{
+    border-radius: 50%;
+}
+#green-box{
+background: #00ff00;
+}
